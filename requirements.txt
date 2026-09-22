@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow
+librosa
+scikit-learn
+ncps
+fuzzy-c-means
