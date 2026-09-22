@@ -1,5 +1,4 @@
 # Fuzzy-LNN-Speech-Emotion-Recognition
-# Fuzzy Liquid Neural Network for Speech Emotion Recognition
 
 This repository provides the Python implementation of a **Fuzzy Liquid Neural Network (Fuzzy-LNN)** framework for Speech Emotion Recognition (SER).
 
@@ -83,7 +82,7 @@ A fixed random seed of **42** is used for reproducibility.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Fuzzy-LNN-Speech-Emotion-Recognition.git
+git clone https://github.com/NovaResearch9022/Fuzzy-LNN-Speech-Emotion-Recognition.git
 cd Fuzzy-LNN-Speech-Emotion-Recognition
 ```
 
