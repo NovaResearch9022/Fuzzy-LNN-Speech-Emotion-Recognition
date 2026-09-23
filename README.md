@@ -1,5 +1,5 @@
 # Fuzzy-LNN-Speech-Emotion-Recognition
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22909572.svg)](https://doi.org/10.5281/zenodo.22909572)
 This repository provides the Python implementation of a **Fuzzy Liquid Neural Network (Fuzzy-LNN)** framework for Speech Emotion Recognition (SER).
 
 The public implementation focuses on experiments conducted using the **CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset)** dataset.
