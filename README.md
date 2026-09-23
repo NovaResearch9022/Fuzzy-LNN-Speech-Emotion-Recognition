@@ -141,9 +141,10 @@ No pre-computed experimental results are embedded in the main implementation. Re
 
 ## Citation
 
-If you use this implementation in academic work, please cite the associated paper.
+If you use this code in your research, please cite the associated publication
+and the archived software release:
 
-Citation information will be added following publication.
+**Software DOI:** 10.5281/zenodo.22909572
 
 ## License
 
